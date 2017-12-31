@@ -1,2 +1,2 @@
 # ruby-go
-* ruby repository
+* ruby repo 😅😅😅
