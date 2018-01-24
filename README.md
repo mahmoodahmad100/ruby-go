@@ -1,4 +1,4 @@
 # ruby-go
 * ruby repo 😅😅😅
 
-### soon 
+### soon (maybe 2 months or something)
