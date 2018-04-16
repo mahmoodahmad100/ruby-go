@@ -1,2 +1,2 @@
 # ruby-go
-* ruby repo 😅😅😅
+* ruby repo 😅😅😅 ... soon
