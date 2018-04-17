@@ -1,2 +1,2 @@
 # ruby-go
-* ruby repo 😅😅😅 ... soon
+* ruby repo 😅😅😅 ... soon (+1 month)
