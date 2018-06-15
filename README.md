@@ -1,3 +1,2 @@
-# ruby-go
-* ruby repo
+# ruby go
 * in progress
