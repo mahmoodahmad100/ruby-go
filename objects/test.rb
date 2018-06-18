@@ -1,7 +1,7 @@
 test = Object.new
 
-def test.echo
-	puts "hello world"
+def test.echo(phrase)
+	puts phrase
 end
 
-test.echo
+test.echo("hello world")
